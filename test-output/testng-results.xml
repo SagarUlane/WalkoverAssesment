@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="89934" started-at="2021-03-22T08:50:29 IST" finished-at="2021-03-22T08:51:59 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="89934" started-at="2021-03-22T08:50:29 IST" finished-at="2021-03-22T08:51:59 IST">
+      <class name="TestSuites.Assesment">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestSuites.Assesment@35d176f7]" name="setup" is-config="true" duration-ms="54759" started-at="2021-03-22T08:50:29 IST" finished-at="2021-03-22T08:51:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testcase1()[pri:1, instance:TestSuites.Assesment@35d176f7]" name="testcase1" duration-ms="18116" started-at="2021-03-22T08:51:24 IST" finished-at="2021-03-22T08:51:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="testcase2()[pri:2, instance:TestSuites.Assesment@35d176f7]" name="testcase2" duration-ms="16443" started-at="2021-03-22T08:51:42 IST" finished-at="2021-03-22T08:51:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+      </class> <!-- TestSuites.Assesment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
